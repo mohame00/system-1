@@ -1,0 +1,13 @@
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\strategy\SearchByAuthorStrategy.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\util\LibraryDBManager.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\model\Book.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\factory\IBookFactory.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\model\NonFictionBook.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\service\LibraryService.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\model\FictionBook.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\factory\BookFactory.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\App.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\strategy\ISearchStrategy.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\repository\IBookRepository.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\strategy\SearchByTitleStrategy.java
+C:\Users\FR\Downloads\library-management-system\src\main\java\com\manus\lms\repository\BookRepositoryImpl.java

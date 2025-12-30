@@ -1,0 +1,13 @@
+com\manus\lms\App.class
+com\manus\lms\strategy\SearchByTitleStrategy.class
+com\manus\lms\strategy\ISearchStrategy.class
+com\manus\lms\model\FictionBook.class
+com\manus\lms\repository\IBookRepository.class
+com\manus\lms\model\Book.class
+com\manus\lms\factory\BookFactory.class
+com\manus\lms\strategy\SearchByAuthorStrategy.class
+com\manus\lms\factory\IBookFactory.class
+com\manus\lms\repository\BookRepositoryImpl.class
+com\manus\lms\model\NonFictionBook.class
+com\manus\lms\util\LibraryDBManager.class
+com\manus\lms\service\LibraryService.class
